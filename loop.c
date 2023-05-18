@@ -3,7 +3,7 @@
 int main(void){
   int i;
 
-  for(i = 0 ; i < 10 ; i++){
+  for(i = 1 ; i <= 1000 ; i++){
     printf("%d\n",i);
   }
 
