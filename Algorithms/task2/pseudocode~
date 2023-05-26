@@ -1,0 +1,9 @@
+strat the program
+ask the user for how many numbers he's going to enter (n)
+intialize sum = 0 
+make a loop run n times
+     input x
+     sum = sum + (x*x)
+
+print sum
+end the program

@@ -1,0 +1,21 @@
+start the program
+intialize variables to take user inputs n1,n2,n3
+intialize a varible to hold a value temporarily
+if n1 > n2:
+   temp = n1
+   n1 = n2
+   n2 = temp
+
+if n1 > n3:
+   temp = n1
+   n1 = n3
+   n3 = temp
+
+if n2 > n3:
+   temp = n2
+   n2 = n3
+   n3 = temp
+
+print n1 n2 n3
+
+end program
